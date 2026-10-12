@@ -1,0 +1,10 @@
+{
+  "Urdu_Script": {
+    "sample_count": 8,
+    "accuracy": 1.0
+  },
+  "Roman_Urdu": {
+    "sample_count": 8,
+    "accuracy": 1.0
+  }
+}
